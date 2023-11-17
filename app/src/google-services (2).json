@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "199826383234",
+    "firebase_url": "https://howler-ec89d-default-rtdb.firebaseio.com",
+    "project_id": "howler-ec89d",
+    "storage_bucket": "howler-ec89d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199826383234:android:da3ec87847476735e42f9b",
+        "android_client_info": {
+          "package_name": "com.example.howlerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNj6UUGYimBvtx1TzOkbkak_74CWO9Vmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
